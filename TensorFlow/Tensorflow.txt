@@ -1,0 +1,5 @@
+conda info --envs
+conda activate tensorflow_env
+conda install tensorflow
+pip install --upgrade tensorflow
+pip install ipykernel
